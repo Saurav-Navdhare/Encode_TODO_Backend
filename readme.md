@@ -38,10 +38,6 @@ To start run
 ```bash
   npm run dev
 ```
-## Appendix
-
-Any additional information goes here
-
 
 ## Documentation
 
